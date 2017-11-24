@@ -40,3 +40,7 @@
   width: 32%;
   float: right;
 }
+
+.eq-height {
+  height: auto;
+}
