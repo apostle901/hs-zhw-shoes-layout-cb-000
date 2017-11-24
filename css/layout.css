@@ -33,12 +33,14 @@
 .span2 {
   width: 66%;
   float: left;
+  overflow: hidden;
 }
 
 
 .span1 {
   width: 32%;
   float: right;
+  overflow: hidden;
 }
 
 .eq-height {
