@@ -31,20 +31,12 @@
 }
 
 #span2 {
-  -webkit-column-width: 300px; /* Chrome, Safari, Opera */
-  -moz-column-width: 300px; /* Firefox */
-  column-width: 300px;
+  width: 66%;
+  float: left;
 }
 
-.col-2 {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
-  columns: non-auto;
-}
 
 #span1 {
-  -webkit-column-width: 100px; /* Chrome, Safari, Opera */
-  -moz-column-width: 100px; /* Firefox */
-  column-width: 100px;
+  width: 33%;
+  float: right;
 }
