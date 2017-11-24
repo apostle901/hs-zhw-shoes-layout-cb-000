@@ -35,6 +35,7 @@
   float: left;
   overflow: hidden;
   position: relative;
+  display: table-cell;
 }
 
 
@@ -43,9 +44,10 @@
   float: right;
   overflow: hidden;
   position: relative;
+  display: table-cell;
 }
 
 .eq-height {
   padding-bottom: 10px;
-  overflow: hidden;
+  display: table;
 }
