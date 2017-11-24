@@ -40,3 +40,7 @@
   -moz-column-count: 2;
   column-count: 2;
 }
+
+#span1 {
+  column-width: 33%;
+}
