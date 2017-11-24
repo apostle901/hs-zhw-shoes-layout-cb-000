@@ -32,7 +32,7 @@
 
 .span2 {
   width: 66%;
-  float: left;
+  float: none;
   overflow: hidden;
   position: relative;
   display: table-cell;
@@ -41,7 +41,7 @@
 
 .span1 {
   width: 32%;
-  float: right;
+  float: none;
   overflow: hidden;
   position: relative;
   display: table-cell;
