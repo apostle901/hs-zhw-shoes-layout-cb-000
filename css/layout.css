@@ -33,6 +33,7 @@
 .span2 {
   width: 66%;
   float: left;
+  padding-bottom: 5px;
   display: table-cell;
 }
 
