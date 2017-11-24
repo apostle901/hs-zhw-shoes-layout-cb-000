@@ -33,7 +33,6 @@
 .span2 {
   width: 66%;
   float: left;
-  position: relative;
   display: table-cell;
 }
 
@@ -41,7 +40,6 @@
 .span1 {
   width: 32%;
   float: right;
-  position: relative;
   display: table-cell;
 }
 
