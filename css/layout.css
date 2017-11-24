@@ -44,4 +44,5 @@
 .eq-height {
   height: 600px;
   padding-bottom: 1000px;
+  overflow: hidden;
 }
